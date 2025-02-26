@@ -1,0 +1,9 @@
+to work in git
+ commands are
+
+git init
+git add file .txt
+git status
+git commit -m " msg "
+git rm --cached file .txt
+
